@@ -116,7 +116,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: hsl(0, 0%, 15%);
   border-radius: 15px;
-  max-width: 80%; /* Adjust max-width for larger screens */
+  max-width: 100%; /* Adjust max-width for larger screens */
   overflow: hidden;
 }
 
